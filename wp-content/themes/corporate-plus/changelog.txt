@@ -6,7 +6,7 @@
 = 1.3.0 - May 03 2017 =
 * Add: Slider option : Text or Image
 * Add: Unlimited Slider Number
-* Add: Display Image Only
+* Add: Display Image Onlyl
 * Add: Feature Slider Image Display Options
 * Add: Footer Widgets
 * Add: Menu Sticky Options
