@@ -1950,6 +1950,6 @@ article.page .read-more {
 /*extra small device*/
 @media (max-width: 640px) {
     .woocommerce .actions input {
-        font-size: 11px;
+        font-size: 12px;
     }
 }

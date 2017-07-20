@@ -28,3 +28,14 @@
 [Thu Jul 20 00:25:13.674856 2017] [ssl:warn] [pid 10580:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
 [Thu Jul 20 00:25:13.830904 2017] [ssl:warn] [pid 10580:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
 [Thu Jul 20 00:25:13.856491 2017] [mpm_winnt:notice] [pid 10580:tid 580] AH00354: Child: Starting 150 worker threads.
+[Thu Jul 20 00:39:34.617954 2017] [ssl:warn] [pid 8188:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jul 20 00:39:34.725961 2017] [core:warn] [pid 8188:tid 580] AH00098: pid file D:/wordpress/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jul 20 00:39:34.803821 2017] [ssl:warn] [pid 8188:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jul 20 00:39:34.823388 2017] [mpm_winnt:notice] [pid 8188:tid 580] AH00455: Apache/2.4.26 (Win32) OpenSSL/1.0.2l PHP/7.1.7 configured -- resuming normal operations
+[Thu Jul 20 00:39:34.823388 2017] [mpm_winnt:notice] [pid 8188:tid 580] AH00456: Apache Lounge VC14 Server built: Jun 15 2017 12:39:41
+[Thu Jul 20 00:39:34.823388 2017] [core:notice] [pid 8188:tid 580] AH00094: Command line: 'd:\\wordpress\\apache\\bin\\httpd.exe -d D:/wordpress/apache'
+[Thu Jul 20 00:39:34.824892 2017] [mpm_winnt:notice] [pid 8188:tid 580] AH00418: Parent: Created child process 14084
+[Thu Jul 20 00:39:35.285896 2017] [ssl:warn] [pid 14084:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jul 20 00:39:35.457900 2017] [ssl:warn] [pid 14084:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jul 20 00:39:35.480978 2017] [mpm_winnt:notice] [pid 14084:tid 604] AH00354: Child: Starting 150 worker threads.
+[Thu Jul 20 00:42:12.394452 2017] [mpm_winnt:crit] [pid 14084:tid 604] AH02538: Child: Parent process exited abruptly. Child process is ending
