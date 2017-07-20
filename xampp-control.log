@@ -1,0 +1,46 @@
+11:07:39 PM  [main] 	Initializing Control Panel
+11:07:39 PM  [main] 	Windows Version:  Home  64-bit
+11:07:39 PM  [main] 	XAMPP Version: 7.1.7
+11:07:39 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+11:07:39 PM  [main] 	You are not running with administrator rights! This will work for
+11:07:39 PM  [main] 	most application stuff but whenever you do something with services
+11:07:39 PM  [main] 	there will be a security dialogue or things will break! So think 
+11:07:39 PM  [main] 	about running this application with administrator rights!
+11:07:39 PM  [main] 	XAMPP Installation Directory: "d:\wordpress\"
+11:07:39 PM  [main] 	Checking for prerequisites
+11:07:39 PM  [main] 	All prerequisites found
+11:07:39 PM  [main] 	Initializing Modules
+11:07:39 PM  [Apache] 	Problem detected!
+11:07:39 PM  [Apache] 	Port 80 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 10036!
+11:07:39 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:07:39 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:07:39 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:07:39 PM  [Apache] 	Problem detected!
+11:07:39 PM  [Apache] 	Port 443 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 10036!
+11:07:39 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:07:39 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:07:39 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:07:39 PM  [main] 	Starting Check-Timer
+11:07:39 PM  [main] 	Control Panel Ready
+11:07:46 PM  [Apache] 	Problem detected!
+11:07:46 PM  [Apache] 	Port 80 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 10036!
+11:07:46 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:07:46 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:07:46 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:07:46 PM  [Apache] 	Problem detected!
+11:07:46 PM  [Apache] 	Port 443 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 10036!
+11:07:46 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:07:46 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:07:46 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:07:46 PM  [Apache] 	Attempting to start Apache app...
+11:07:46 PM  [Apache] 	Status change detected: running
+11:07:51 PM  [mysql] 	Attempting to start MySQL app...
+11:07:51 PM  [mysql] 	Status change detected: running
+12:08:54 AM  [Apache] 	Attempting to stop Apache (PID: 2676)
+12:08:54 AM  [Apache] 	Attempting to stop Apache (PID: 5284)
+12:08:54 AM  [Apache] 	Status change detected: stopped
+12:08:56 AM  [mysql] 	Attempting to stop MySQL app...
+12:08:57 AM  [mysql] 	Status change detected: stopped
+12:09:01 AM  [main] 	Deinitializing Modules
+12:09:01 AM  [main] 	Deinitializing Control Panel
+
