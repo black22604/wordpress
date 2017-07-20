@@ -18,3 +18,13 @@
 [Thu Jul 20 00:23:41.038751 2017] [ssl:warn] [pid 12944:tid 552] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
 [Thu Jul 20 00:23:41.199298 2017] [ssl:warn] [pid 12944:tid 552] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
 [Thu Jul 20 00:23:41.221874 2017] [mpm_winnt:notice] [pid 12944:tid 552] AH00354: Child: Starting 150 worker threads.
+[Thu Jul 20 00:25:12.781128 2017] [ssl:warn] [pid 13580:tid 548] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jul 20 00:25:12.867422 2017] [core:warn] [pid 13580:tid 548] AH00098: pid file D:/wordpress/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jul 20 00:25:12.951208 2017] [ssl:warn] [pid 13580:tid 548] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jul 20 00:25:12.971276 2017] [mpm_winnt:notice] [pid 13580:tid 548] AH00455: Apache/2.4.26 (Win32) OpenSSL/1.0.2l PHP/7.1.7 configured -- resuming normal operations
+[Thu Jul 20 00:25:12.971276 2017] [mpm_winnt:notice] [pid 13580:tid 548] AH00456: Apache Lounge VC14 Server built: Jun 15 2017 12:39:41
+[Thu Jul 20 00:25:12.971276 2017] [core:notice] [pid 13580:tid 548] AH00094: Command line: 'd:\\wordpress\\apache\\bin\\httpd.exe -d D:/wordpress/apache'
+[Thu Jul 20 00:25:12.972781 2017] [mpm_winnt:notice] [pid 13580:tid 548] AH00418: Parent: Created child process 10580
+[Thu Jul 20 00:25:13.674856 2017] [ssl:warn] [pid 10580:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jul 20 00:25:13.830904 2017] [ssl:warn] [pid 10580:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jul 20 00:25:13.856491 2017] [mpm_winnt:notice] [pid 10580:tid 580] AH00354: Child: Starting 150 worker threads.
